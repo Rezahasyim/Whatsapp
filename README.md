@@ -1,6 +1,7 @@
 # Prank
   
-print "Apa Gak seang Bewan Dekk'
+# Apa Gak seang Bewan Dekk
   
    
-print "Anak Ngentod Loe"
+# Anak Ngentod Loe"
+ 
